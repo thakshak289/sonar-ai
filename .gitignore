@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Generated files
+outputs/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+
+# Large datasets
+dataset/
+test_images/
+
+# OS
+.DS_Store
+Thumbs.db
